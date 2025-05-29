@@ -17,4 +17,4 @@ function Beeds() {
   )
 }
 
-export default Beeds
+export default Beeds 
