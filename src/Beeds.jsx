@@ -5,14 +5,14 @@ import React from 'react'
 function Beeds() {
   return (
     <>
-    {/* <Button >click</Button>
+    {/* <Button >click</Button> */}
     
-    <Button variant="text">Text</Button>
-    <Button variant="outlined">Outlined</Button>
-    <Button href="#text-buttons">Link</Button>
-    <Button variant="contained">Contained</Button> */}
-    <TextField id="outlined-basic" label="Outlined" variant="outlined" />
-    <Rating name="half-rating" defaultValue={2.5} precision={0.5} />
+    {/* <Button variant="text">Text</Button> */}
+    {/* <Button variant="outlined">Outlined</Button> */}
+    {/* <Button href="#text-buttons">Link</Button> */}
+    {/* <Button variant="contained">Contained</Button> */}
+    {/* <TextField id="outlined-basic" label="name" variant="outlined" /> */}
+    {/* <Rating name="half-rating" defaultValue={2.5} precision={0.5} /> */}
     </>
   )
 }
